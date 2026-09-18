@@ -262,7 +262,8 @@ SOFTWARE.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by the Password Generator Team
+Created with ❤️ by Hasan Ahmadi
+
 
 ## 🙏 Acknowledgments
 

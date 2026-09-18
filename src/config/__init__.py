@@ -1,0 +1,31 @@
+"""
+Configuration package for the Password Generator application.
+"""
+
+from .settings import (
+    DATABASE_PATH,
+    PASSWORD_MODES,
+    MIN_PASSWORD_LENGTH,
+    MAX_PASSWORD_LENGTH,
+    DEFAULT_PIN_LENGTH,
+    DEFAULT_TEXT_LENGTH,
+    DEFAULT_MIXED_LENGTH,
+    DEFAULT_STRONG_LENGTH,
+    APP_TITLE,
+    APP_ICON,
+    VERSION,
+)
+
+__all__ = [
+    "DATABASE_PATH",
+    "PASSWORD_MODES",
+    "MIN_PASSWORD_LENGTH",
+    "MAX_PASSWORD_LENGTH",
+    "DEFAULT_PIN_LENGTH",
+    "DEFAULT_TEXT_LENGTH",
+    "DEFAULT_MIXED_LENGTH",
+    "DEFAULT_STRONG_LENGTH",
+    "APP_TITLE",
+    "APP_ICON",
+    "VERSION",
+]
